@@ -4,6 +4,21 @@
 <h1 align="center", margin-top: 20em;>Exploratory Data Analysis On Netflix</h1>
 <h5 align="center">This repository contains the code and documentation for an exploratory data analysis (EDA) of the Netflix dataset.</h5>
 
+
+
+<h2 align="center">Power Bi Dashboard</h2>
+
+![netflix-1](https://github.com/Naresh9368/EDA-ON-NETFLIX/assets/91408179/cc98aef9-910f-48c5-ae25-2fdb44e1c576)
+<p>‣ Implemented data cleaning and preprocessing using Python and Pandas, reducing missing values by 98% and outliers by 
+90%, showcasing strong data cleaning and preparation skills.<br>
+‣ Produced multiple visualizations, including histograms, box plots, and scatter plots, for effective data representation, 
+aligning with data visualization tasks described in the job description.<br>
+‣ Contributed to data-driven decision-making and improved user experiences through comprehensive data analysis and 
+visualization.</p>
+
+
+
+
 <div>
 <h2 align="center">Dataset</h2>
 <h3><b>Netflix - TV Shows and Movies</b></h3>
