@@ -5,6 +5,18 @@
 <h5 align="center">This repository contains the code and documentation for an exploratory data analysis (EDA) of the Netflix dataset.</h5>
 
 
+<div>
+  <h3>Project Summary</h3>
+  <p><b>1. Situation:</b><br>➼ The project involved conducting an EDA of a Netflix dataset, aiming to understand the content available on the platform and uncover trends in movies and TV shows.</p>
+  <p><b>2. Task:</b><br>➼ The primary tasks included data cleaning and preprocessing using Python and Pandas to reduce missing values and outliers significantly.<br>
+➼ The project also involved the creation of various visualizations like histograms, box plots, and scatter plots to effectively represent the data and align with data visualization objectives.</p>
+  <p><b>3. Action:</b><br>➼ Data cleaning and preprocessing were accomplished with strong data cleaning and preparation skills, reducing missing values by 98% and outliers by 90%.<br>
+➼ Multiple visualizations were produced to aid in data-driven decision-making and enhance user experiences.</p>
+  <p><b>4. Results:</b><br>➼ The EDA provided insights into the Netflix dataset, revealing trends in content, such as the rise of original Netflix productions and the popularity of specific genres.<br>
+➼ These findings can be valuable for Netflix in shaping content acquisition and production strategies.</p>
+</div>
+
+
 
 <h2 align="center">Power Bi Dashboard</h2>
 
